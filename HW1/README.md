@@ -2,4 +2,4 @@
 
 Applied approaches: Simple policy (hit when hand < 19), First-Visit MC, MC with control.
 
-Also, upgraded standard OpenAI envirnment with doubling and different counting methods.
+Also, upgraded standard OpenAI environment with doubling and different counting methods.
