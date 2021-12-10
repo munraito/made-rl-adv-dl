@@ -1,5 +1,3 @@
-## StyleTransfer при помощи GAN'ов 
-
 ### CycleGAN
 Процесс обучения и все архитектуры показаны в тетрадке [CycleGAN_training.ipynb](CycleGAN_training.ipynb)
 
