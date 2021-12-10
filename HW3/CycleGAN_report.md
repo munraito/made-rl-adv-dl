@@ -5,6 +5,8 @@
 
 Примеры случайных генераций на тестовом сете по эпохам:
 
+(label - generated - true)
+
 1 эпоха
 
 ![img](CycleGAN_images/cycleGAN_sample_1_0.png)
